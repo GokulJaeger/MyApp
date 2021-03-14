@@ -1,1 +1,27 @@
-/* You can add global styles to this file, and also import other style files */
+/* div{  
+    font-size: 14px;  
+    padding: 10px;  
+    border: 3px solid rgb(245, 194, 65);  
+    margin: 3px;  
+    background-color: rgb(193, 231, 243);
+}
+input{
+    background-color: rgb(224, 224, 224);
+}
+body{
+    background-color: rgb(193, 231, 243);
+}
+h1{
+    text-align:center;
+    background-color: rgb(243, 193, 193);
+}
+.selected{
+    font-size: 20px;
+    font-style:italic;
+    color:crimson;
+}
+
+.column{
+    float:left;
+    width: 30%;
+} */

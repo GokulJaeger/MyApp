@@ -1,0 +1,29 @@
+div{  
+    font-size: 14px;  
+    padding: 10px;  
+    border: 3px solid rgb(245, 194, 65); 
+    border-radius: 5px; 
+    margin: 3px;  
+    background-color: rgb(193, 231, 243);
+}
+input{
+    background-color: rgb(238, 238, 238);
+}
+body{
+    background-color: rgb(193, 231, 243);
+}
+h1{
+    text-align:center;
+    background-color: rgb(248, 239, 153);
+    text-shadow: 1px 1px 3px rgb(0, 0, 0);
+}
+.selected{
+    font-size: 20px;
+    font-style:italic;
+    color:crimson;
+}
+
+.column{
+    float:left;
+    width: 30%;
+}
